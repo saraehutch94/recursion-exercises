@@ -2,6 +2,7 @@
 // You will have to figure out what parameters to include
 // All functions must use recursion
 
+// works with positive and negative numbers
 function findMax(arr) {
   // This function returns the largest number in a given array.
   let index = 0;
